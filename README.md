@@ -41,9 +41,13 @@ FPSManager'ı hemen kullanmaya başlamak için GitHub Releases sayfasından **Se
 ## ⚠️ Önemli Uyarı: Anti-Cheat Sistemleri
 
 > [!WARNING]  
+
 > **Rekabetçi Çevrimiçi Oyunlarda Kullanmayınız!**  
+
 > FPSManager tarafından oyun dosyalarına entegre edilen *.dll* dosyaları, League of Legends (Vanguard), CS2 (VAC) ve Valorant gibi **sunucu taraflı özel hile koruması (Anti-Cheat)** barındıran oyunlar tarafından **3. parti hile yazılımı** olarak algılanabilir. Bu durum hesabınızın kalıcı olarak yasaklanmasına sebep olabilir herhangi bir şekilde sorumluluk kabul etmiyoruz.  
+
 > *Lütfen bu aracı sadece hikayeli (Singleplayer) oyunlarda kullanınız.*
+
 > Kullanıcı kuralları okumuş olarak varsayılacaktır!
 ---
 
