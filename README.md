@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xbar1s/fpsmanager/main/icons/program_logo.png" alt="FPSManager Logo" width="150"/>
   <h1>🎮 FPSManager</h1>
   <p><strong>Oyunlarınızın performans sınırlarını zorlayın!</strong></p>
 
