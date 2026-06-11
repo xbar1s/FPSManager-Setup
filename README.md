@@ -38,37 +38,13 @@ FPSManager'ı hemen kullanmaya başlamak için GitHub Releases sayfasından **Se
 
 ---
 
-## 🛠️ Kaynak Koddan Geliştirme (Geliştiriciler İçin)
-
-Eğer projeye katkıda bulunmak veya kaynak koddan derlemek istiyorsanız:
-
-```bash
-# 1. Repoyu bilgisayarınıza klonlayın
-git clone https://github.com/xbar1s/fpsmanager.git
-
-# 2. Proje dizinine girin
-cd fpsmanager
-
-# 3. Gerekli bağımlılıkları (Node.js 20+) yükleyin
-npm install
-
-# 4. Geliştirici modunda test için başlatın
-npm start
-
-# 5. Kendi Setup (.exe) dosyanızı oluşturmak için derleyin
-npm run build
-```
-*(Oluşturulan Setup dosyası `dist/` klasörü içerisinde yer alacaktır.)*
-
----
-
 ## ⚠️ Önemli Uyarı: Anti-Cheat Sistemleri
 
 > [!WARNING]  
 > **Rekabetçi Çevrimiçi Oyunlarda Kullanmayınız!**  
-> FPSManager tarafından oyun dosyalarına entegre edilen *.dll* dosyaları, League of Legends (Vanguard), CS2 (VAC) ve Valorant gibi **sunucu taraflı özel hile koruması (Anti-Cheat)** barındıran oyunlar tarafından **3. parti hile yazılımı** olarak algılanabilir. Bu durum hesabınızın kalıcı olarak yasaklanmasına sebep olabilir.  
+> FPSManager tarafından oyun dosyalarına entegre edilen *.dll* dosyaları, League of Legends (Vanguard), CS2 (VAC) ve Valorant gibi **sunucu taraflı özel hile koruması (Anti-Cheat)** barındıran oyunlar tarafından **3. parti hile yazılımı** olarak algılanabilir. Bu durum hesabınızın kalıcı olarak yasaklanmasına sebep olabilir herhangi bir şekilde sorumluluk kabul etmiyoruz.  
 > *Lütfen bu aracı sadece hikayeli (Singleplayer) oyunlarda kullanınız.*
-
+> Kullanıcı kuralları okumuş olarak varsayılacaktır!
 ---
 
 <div align="center">
